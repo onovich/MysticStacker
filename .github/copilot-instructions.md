@@ -26,3 +26,6 @@
 - Preserve the intentional occult atmosphere.
 - Favor high-contrast, legible UI over decorative complexity.
 - Ensure mouse, touch, zoom, and pan interactions keep working on desktop and mobile.
+
+## Additional Capabilities
+- **Refactoring:** We can execute pixel-perfect UX replication and Data-Logic-View layered refactoring from single-file prototypes using the `refactor-single-file` skill.
